@@ -6,13 +6,8 @@ This is a simple **Machine Learning Project** that predicts student exam scores 
 
 ## 📂 Project Structure
 
-linear-regression-student-score/
-│── data/
-│ └── student_scores.csv
-│── src/
-│ └── student_score_prediction.py
-│── README.md
-│── requirements.txt
+
+![Project Structure](images/project_structure.png)
 
 
 ---
