@@ -1,6 +1,6 @@
 # 🎯 Student Score Prediction using Linear Regression
 
-This is a simple **Machine Learning Project** that predicts student exam scores based on the number of hours studied using **Linear Regression**.
+📊 A practical Machine Learning project that demonstrates how study hours impact student performance. Using Linear Regression, this project predicts exam scores with high accuracy—showcasing the power of data-driven insights in education.
 
 ---
 
